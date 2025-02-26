@@ -8,8 +8,6 @@
   Instructor Front-End en Alura Latam
 </p>
 
-<p>¡Llegó la hora, ! Vas a comenzar tu jornada en el #7DaysOfCode ;)</p>
-
 <p>¿Sabes cuando te registras en un site y, justo después, al iniciar sesión, te llama por tu nombre? Eso es lo que harás en el desafío de hoy en el #7DaysOfCode.</p>
 
 <p>Cuando creas un sistema, site o aplicación, es común querer agregar algunos toques personalizados para hacer la experiencia en tu aplicación más rica y dinámica.
